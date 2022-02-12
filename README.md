@@ -14,7 +14,7 @@ It is painful to backup tons of shared folder to Google Drive manually. Therefor
 4. Modify `list.txt` with the format of `folder_ID===rclone_destination`.
 5. You are good to go. See the [Practical Case](#practical-case) before you run the program to see if it works.
 
-The `rclone_destination` is in the format with [dest:destpath](https://rclone.org/commands/rclone_copy/).
+The `rclone_destination` is in the format with [`dest:destpath`](https://rclone.org/commands/rclone_copy/).
 The path doesn't need to have double quotes even if the path contains whitespace (tested on Windows7/10).
 
 ## Practical Case
