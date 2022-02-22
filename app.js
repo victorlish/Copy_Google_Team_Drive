@@ -6,7 +6,7 @@ const pendingDL = "list.txt"
 const original_config = "rclone.conf";
 const modified_config = "rclone_modified.conf";
 const rclonePath = "rclone";		// Change the rclonePath if rclone is not in the system path
-const retriesBeforeExit = 5;		// Retries of the progress
+const retriesBeforeExit = 1;		// Retries of the progress
 
 var token = null;
 var tokenExpTime = null;
