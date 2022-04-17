@@ -1,8 +1,7 @@
-# Backup Google Drive Share Folder with rclone in Automation
-The program allows you to backup **any Google Drive shared folder** to your Google Drive (or other cloud storage) in automation.
+# Copy Google Team Drive
+Let's copy all the contents of a Google Team Drive or a Google Drive Shared Folder to yours with few steps.
 
 ## Motivation
-It is painful to backup tons of shared folder to Google Drive manually. Therefore, the program targets to:
 1. Backup these folders to Google Drive **without using host bandwidth**, or
 2. Backup these folders to other cloud storage (e.g., OneDrive).
 
